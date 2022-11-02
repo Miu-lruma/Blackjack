@@ -1,4 +1,4 @@
-//Randall Krueger
+//Lily Krueger
 //Data Structures lab 2
 //2/6/17
 //cardDeck.cpp
